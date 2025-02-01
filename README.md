@@ -3,6 +3,7 @@
 ## Repro steps
 
 - `git clone git@github.com:noway/AuthTabAPIR8CompilationError.git`
+- `cd AuthTabAPIR8CompilationError`
 - `npm install`
 - Open `android` folder in Android Studio
 - Sync Gradle
