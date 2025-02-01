@@ -2,7 +2,7 @@
 
 ## Repro steps
 
-- clone the repo
+- `git clone git@github.com:noway/AuthTabAPIR8CompilationError.git`
 - `npm install`
 - Open `android` folder in Android Studio
 - Sync Gradle
